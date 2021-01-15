@@ -4,4 +4,4 @@ SELECT
 FROM
   products
 WHERE
-  productname ilike '%queso%'
+  productname LIKE '%queso%'
